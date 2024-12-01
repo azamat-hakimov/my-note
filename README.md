@@ -14,7 +14,7 @@ A simple scratch program that user set password to use saved note or to save imp
 
 ## Features
 
-This is more basic that is part 1 of 3 . In the coming parts i will provide with user interface and new futures)
+This is more basic that is part 1 of 3 . In the coming parts i will provide with user interface and real database to store infos and more new futures)
 
 ## Installation
 
